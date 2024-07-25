@@ -1,6 +1,6 @@
-package academy.devdojo.maratonajava.javacore.Bintroducaometodos.test;
+package javacore.Bintroducaometodos.test;
 
-import academy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Estudante;
+import javacore.Bintroducaometodos.dominio.Estudante;
 
 public class EstudanteImprime {
     public void imprime(Estudante estudante) {
