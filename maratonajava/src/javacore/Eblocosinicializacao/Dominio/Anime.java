@@ -1,4 +1,4 @@
-package javacore.Eblocosinicializacao.Domain;
+package javacore.Eblocosinicializacao.Dominio;
 
 public class Anime {
     private String nome;

@@ -1,6 +1,6 @@
 package javacore.Eblocosinicializacao.Test;
 
-import javacore.Eblocosinicializacao.Domain.Anime;
+import javacore.Eblocosinicializacao.Dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {
