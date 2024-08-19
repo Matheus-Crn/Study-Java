@@ -3,9 +3,6 @@ package javacore.Kenum.Dominio;
 import java.util.PrimitiveIterator;
 
 public class Cliente {
-    public enum TipoPagamento{
-        DEBITO, CREDITO
-    }
     private String nome;
     private TipoCliente tipoCliente;
     private TipoPagamento tipoPagamento;
@@ -20,7 +17,7 @@ public class Cliente {
     public String toString() {
         return "Cliente{" +
                 "nome='" + nome + '\'' +
-                ", tipoCliente=" + tipoCliente +
+                ", tipoCliente=" + tipoCliente.getValor()+
                 ", tipoPagamento=" + tipoPagamento +
                 '}';
     }
