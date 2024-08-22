@@ -8,4 +8,7 @@ public class FileLoad implements DataLoad{
     public void remover(){
         System.out.println("Deletando dados de um arquivo");
     }
+    public static void retrieveMaxDataSize(){
+        System.out.println("Dentro da clase Fileload");
+    }
 }

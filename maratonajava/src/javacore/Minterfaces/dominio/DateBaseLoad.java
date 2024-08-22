@@ -17,4 +17,7 @@ public class DateBaseLoad implements DataLoad, DateRemover { // Note que eu uso 
         // Dessa forma eu Sobrescrevo o metodo concreto que foi feito e atribuido valores na interface.
         System.out.println("Checando permissão do banco de dados, de forma alterada na classe.");
     }
+    public static void retrieveMaxDataSize(){
+        System.out.println("Dentro da clase dataload");
+    }
 }

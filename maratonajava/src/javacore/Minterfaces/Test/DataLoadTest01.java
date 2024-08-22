@@ -1,5 +1,6 @@
 package javacore.Minterfaces.Test;
 
+import javacore.Minterfaces.dominio.DataLoad;
 import javacore.Minterfaces.dominio.DateBaseLoad;
 import javacore.Minterfaces.dominio.FileLoad;
 
@@ -19,5 +20,11 @@ public class DataLoadTest01 {
 
         dateBaseLoad.checkPermisson();
         fileLoad.checkPermisson();
+
+        DataLoad.retrieveMaxDataSize(); // carregando metodo da interface e sobrescrevendo
+        DateBaseLoad.retrieveMaxDataSize();
+
+        FileLoad.retrieveMaxDataSize();
     }
+
 }
