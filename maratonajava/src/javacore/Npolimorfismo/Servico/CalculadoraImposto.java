@@ -30,6 +30,13 @@ public class CalculadoraImposto {
         System.out.println(produto.getNome()+" com o valor de "+produto.getValor()+ "R$ reais");
         System.out.println("Será de "+imposto+"R$ reais");
 
+        if (produto instanceof  Tomate) {
+            Tomate tomate = (Tomate) produto;
+            System.out.println(tomate.getDataDeValidade());
+
+            // String dataDeValidade = ((Tomate) produto).getDataDeValidade  ----- executar em uma linha esse cast
+            //System.out.println(dataDeValidade);
+        }
     }
 
 
