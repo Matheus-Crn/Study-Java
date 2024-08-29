@@ -1,4 +1,4 @@
-package javacore.Oexception.RunTimeExceptionTest;
+package javacore.Oexception.RunTimeTest;
 
 public class RunTimeExceptionTest02 {
     public static void main(String[] args) {

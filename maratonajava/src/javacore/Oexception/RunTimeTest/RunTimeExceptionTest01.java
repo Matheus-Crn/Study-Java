@@ -1,6 +1,4 @@
-package javacore.Oexception.RunTimeExceptionTest;
-
-import java.lang.reflect.Array;
+package javacore.Oexception.RunTimeTest;
 
 public class RunTimeExceptionTest01 {
     public static void main(String[] args) {
