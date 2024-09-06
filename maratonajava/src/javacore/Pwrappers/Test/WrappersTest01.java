@@ -1,11 +1,11 @@
-package javacore.Pwrappers.Test;
+package academy.devdojo.maratonajava.Pwrappers.Test;
 
 public class WrappersTest01 {
     public static void main(String[] args) {
         // dessa forma ele é byte code
         // Tipos primitivos
         byte byteP = 1;
-        short shortP = 1;
+        short shortP = 100;
         int intP = 1;
         long longP = 10L;
         float floatP = 10F;

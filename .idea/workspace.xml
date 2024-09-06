@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="47737c6f-592f-4c53-8d84-6ccdfe8112f3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/src/javacore/Pwrappers/Test/WrappersTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/src/javacore/Pwrappers/Test/WrappersTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +27,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mathe/OneDrive/Documentos/Matheus/cursos/JAVA/Dev dojo/Study-Java/maratonajava",
+    "last_opened_file_path": "C:/Users/mathe/Estudos/JAVA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
